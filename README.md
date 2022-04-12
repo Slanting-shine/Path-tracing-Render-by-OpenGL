@@ -16,4 +16,5 @@ C++ lib:
     GLAD >= 0.1.3
     GLM >= 0.9.9.8
 
-set up the lib and include file manually
+set up the lib and include file manually. 
+the requirement asset is in the dependence file.
